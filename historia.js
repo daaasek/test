@@ -11534,7 +11534,7 @@ function(P) {
                     }, 1e3, "easeOutQuad"),
                     "dark" == x.version && h.addClass("dark"),
                     "flat" == x.designStyle && (h.addClass("flat"),
-                    v.find("img").attr("src", "/typo3conf/ext/gd_sites/Resources/Public/Images/milestones/scrollbar_dragger_flat.png")),
+                    v.find("img").attr("src", "https://gdata.de/typo3conf/ext/gd_sites/Resources/Public/Images/milestones/scrollbar_dragger_flat.png")),
                     x.shadow && h.addClass("shadow"),
                     c.find(".date").css("color", x.accentColor),
                     c.find(".link a").hover(function() {
