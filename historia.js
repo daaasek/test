@@ -8097,7 +8097,7 @@ GdWebsite.Functions = {
             e.dataset.src && (e.src = e.dataset.src),
             e.dataset.srcset && (e.srcset = e.dataset.srcset)
         })) : (t = document.createElement("script"),
-        t.src = "/typo3conf/ext/gd_sites/Resources/Public/JavaScript/lazysizes.js",
+        t.src = "https://gdata.de/typo3conf/ext/gd_sites/Resources/Public/JavaScript/lazysizes.js",
         document.body.appendChild(t))
     },
     updateMiniBasket: function updateMiniBasket() {
