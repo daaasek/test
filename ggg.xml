@@ -1,2333 +1,1183 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<rss xmlns:g="http://base.google.com/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
 	<channel>
-		<item>
-			<g:id>C1001ESD12001</g:id>
-			<title>G DATA ANTIVIRUS 1 PC 12 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD12001</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>135,3 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD12002</g:id>
-			<title>G DATA ANTIVIRUS 2 PC 12 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD12002</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>159,9 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD12003</g:id>
-			<title>G DATA ANTIVIRUS 3 PC 12 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD12003</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>184,5 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD12004</g:id>
-			<title>G DATA ANTIVIRUS 4 PC 12 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD12004</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>215,25 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD12005</g:id>
-			<title>G DATA ANTIVIRUS  5 PC 12 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD12005</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>258,3 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD12006</g:id>
-			<title>G DATA ANTIVIRUS  6 PC 12 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD12006</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>338,2254 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD12007</g:id>
-			<title>G DATA ANTIVIRUS  7 PC 12 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD12007</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>387,45 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD12008</g:id>
-			<title>G DATA ANTIVIRUS  8 PC 12 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD12008</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>418,2 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD12009</g:id>
-			<title>G DATA ANTIVIRUS  9 PC 12 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD12009</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>455,0877 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD12010</g:id>
-			<title>G DATA ANTIVIRUS  10 PC 12 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD12010</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>485,85 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD12011</g:id>
-			<title>G DATA ANTIVIRUS  11-50 PC 12 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD12011</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD12051</g:id>
-			<title>G DATA ANTIVIRUS  51-100 PC 12 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD12051</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD12101</g:id>
-			<title>G DATA ANTIVIRUS  100+ PC 12 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD12101</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD24001</g:id>
-			<title>G DATA ANTIVIRUS  1 PC 24 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD24001</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>248,2386 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD24002</g:id>
-			<title>G DATA ANTIVIRUS  2 PC 24 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD24002</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>297,1434 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD24003</g:id>
-			<title>G DATA ANTIVIRUS  3 PC 24 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD24003</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>346,122 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD24004</g:id>
-			<title>G DATA ANTIVIRUS  4 PC 24 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD24004</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>406,7856 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD24005</g:id>
-			<title>G DATA ANTIVIRUS  5 PC 24 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD24005</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>491,016 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD24006</g:id>
-			<title>G DATA ANTIVIRUS  6 PC 24 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD24006</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>634,4586 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD24007</g:id>
-			<title>G DATA ANTIVIRUS  7 PC 24 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD24007</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>729,5253 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD24008</g:id>
-			<title>G DATA ANTIVIRUS  8 PC 24 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD24008</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>790,152 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD24009</g:id>
-			<title>G DATA ANTIVIRUS  9 PC 24 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD24009</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>862,4637 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD24010</g:id>
-			<title>G DATA ANTIVIRUS  10 PC 24 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD24010</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>923,361 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD24011</g:id>
-			<title>G DATA ANTIVIRUS  11-50 PC 24 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD24011</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD24051</g:id>
-			<title>G DATA ANTIVIRUS  51-100 PC 24 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD24051</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD24101</g:id>
-			<title>G DATA ANTIVIRUS  100+ PC 24 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD24101</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD36001</g:id>
-			<title>G DATA ANTIVIRUS 1 PC 36 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD36001</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>361,1772 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD36002</g:id>
-			<title>G DATA ANTIVIRUS 2 PC 36 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD36002</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>434,4114 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD36003</g:id>
-			<title>G DATA ANTIVIRUS 3 PC 36 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD36003</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>507,7809 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD36004</g:id>
-			<title>G DATA ANTIVIRUS 4 PC 36 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD36004</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>598,3212 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD36005</g:id>
-			<title>G DATA ANTIVIRUS 5 PC 36 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD36005</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>723,732 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD36006</g:id>
-			<title>G DATA ANTIVIRUS 6 PC 36 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD36006</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>930,618 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD36007</g:id>
-			<title>G DATA ANTIVIRUS 7 PC 36 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD36007</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>1071,5145 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD36008</g:id>
-			<title>G DATA ANTIVIRUS 8 PC 36 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD36008</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>1162,0056 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD36009</g:id>
-			<title>G DATA ANTIVIRUS 9 PC 36 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD36009</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>1269,9504 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD36010</g:id>
-			<title>G DATA ANTIVIRUS 10 PC 36 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD36010</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>1360,872 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD36011</g:id>
-			<title>G DATA ANTIVIRUS 11-50 PC 36 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD36011</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD36051</g:id>
-			<title>G DATA ANTIVIRUS 51-100 PC 36 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD36051</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1001ESD36101</g:id>
-			<title>G DATA ANTIVIRUS 100+ PC 36 msc</title>
-			<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antywirus-windows?avid=C1001ESD36101</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item/>
-		<item>
-			<g:id>C1002ESD12001</g:id>
-			<title>G DATA INTERNET SECURITY  1 PC 12 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD12001</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>172,2 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD12002</g:id>
-			<title>G DATA INTERNET SECURITY  2 PC 12 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD12002</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>202,95 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD12003</g:id>
-			<title>G DATA INTERNET SECURITY  3 PC 12 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD12003</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>233,6877 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD12004</g:id>
-			<title>G DATA INTERNET SECURITY  4 PC 12 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD12004</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>264,45 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD12005</g:id>
-			<title>G DATA INTERNET SECURITY  5 PC 12 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD12005</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>301,35 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD12006</g:id>
-			<title>G DATA INTERNET SECURITY  6 PC 12 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD12006</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>362,8746 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD12007</g:id>
-			<title>G DATA INTERNET SECURITY  7 PC 12 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD12007</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>405,8754 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD12008</g:id>
-			<title>G DATA INTERNET SECURITY  8 PC 12 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD12008</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>455,1 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD12009</g:id>
-			<title>G DATA INTERNET SECURITY  9 PC 12 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD12009</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>498,15 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD12010</g:id>
-			<title>G DATA INTERNET SECURITY  10 PC 12 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD12010</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>528,9 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD12011</g:id>
-			<title>G DATA INTERNET SECURITY  11-50 PC 12 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD12011</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD12051</g:id>
-			<title>G DATA INTERNET SECURITY  51-100 PC 12 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD12051</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD12101</g:id>
-			<title>G DATA INTERNET SECURITY  100+ PC 12 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD12101</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD24001</g:id>
-			<title>G DATA INTERNET SECURITY 1 PC 24 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD24001</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>309,2835 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD24002</g:id>
-			<title>G DATA INTERNET SECURITY 2 PC 24 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD24002</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>364,7442 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD24003</g:id>
-			<title>G DATA INTERNET SECURITY 3 PC 24 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD24003</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>419,8113 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD24004</g:id>
-			<title>G DATA INTERNET SECURITY 4 PC 24 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD24004</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>475,3704 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD24005</g:id>
-			<title>G DATA INTERNET SECURITY 5 PC 24 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD24005</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>544,275 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD24006</g:id>
-			<title>G DATA INTERNET SECURITY 6 PC 24 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD24006</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>657,8532 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD24007</g:id>
-			<title>G DATA INTERNET SECURITY 7 PC 24 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD24007</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>738,2214 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD24008</g:id>
-			<title>G DATA INTERNET SECURITY 8 PC 24 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD24008</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>829,8072 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD24009</g:id>
-			<title>G DATA INTERNET SECURITY 9 PC 24 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD24009</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>910,2861 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD24010</g:id>
-			<title>G DATA INTERNET SECURITY 10 PC 24 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD24010</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>968,256 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD24011</g:id>
-			<title>G DATA INTERNET SECURITY 11-50 PC 24 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD24011</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD24051</g:id>
-			<title>G DATA INTERNET SECURITY 51-100 PC 24 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD24051</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD24101</g:id>
-			<title>G DATA INTERNET SECURITY 100+ PC 24 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD24101</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD36001</g:id>
-			<title>G DATA INTERNET SECURITY 1 PC 36 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD36001</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>450,9549 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD36002</g:id>
-			<title>G DATA INTERNET SECURITY 2 PC 36 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD36002</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>532,5654 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD36003</g:id>
-			<title>G DATA INTERNET SECURITY 3 PC 36 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD36003</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>613,647 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD36004</g:id>
-			<title>G DATA INTERNET SECURITY 4 PC 36 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD36004</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>698,64 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD36005</g:id>
-			<title>G DATA INTERNET SECURITY 5 PC 36 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD36005</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>803,928 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD36006</g:id>
-			<title>G DATA INTERNET SECURITY 6 PC 36 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD36006</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>979,695 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD36007</g:id>
-			<title>G DATA INTERNET SECURITY 7 PC 36 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD36007</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>1098,2055 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD36008</g:id>
-			<title>G DATA INTERNET SECURITY 8 PC 36 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD36008</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>1237,6752 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD36009</g:id>
-			<title>G DATA INTERNET SECURITY 9 PC 36 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD36009</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>1360,7244 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD36010</g:id>
-			<title>G DATA INTERNET SECURITY 10 PC 36 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD36010</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>1450,17 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD36011</g:id>
-			<title>G DATA INTERNET SECURITY 11-50 PC 36 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD36011</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD36051</g:id>
-			<title>G DATA INTERNET SECURITY 51-100 PC 36 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD36051</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1002ESD36101</g:id>
-			<title>G DATA INTERNET SECURITY 100+ PC 36 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD36101</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item/>
-		<item>
-			<g:id>C1003ESD12001</g:id>
-			<title>G DATA TOTAL SECURITY 1 PC 12 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD12001</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>196,8 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD12002</g:id>
-			<title>G DATA TOTAL SECURITY  2 PC 12 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD12002</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>227,55 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD12003</g:id>
-			<title>G DATA TOTAL SECURITY  3 PC 12 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD12003</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>258,3 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD12004</g:id>
-			<title>G DATA TOTAL SECURITY  4 PC 12 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD12004</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>289,05 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD12005</g:id>
-			<title>G DATA TOTAL SECURITY 5 PC 12 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD12005</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>332,1 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD12006</g:id>
-			<title>G DATA TOTAL SECURITY 6 PC 12 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD12006</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>387,45 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD12007</g:id>
-			<title>G DATA TOTAL SECURITY 7 PC 12 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD12007</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>430,5 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD12008</g:id>
-			<title>G DATA TOTAL SECURITY 8 PC 12 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD12008</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>479,7 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD12009</g:id>
-			<title>G DATA TOTAL SECURITY 9 PC 12 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD12009</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>522,7254 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD12010</g:id>
-			<title>G DATA TOTAL SECURITY 10 PC 12 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD12010</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>553,5 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD12011</g:id>
-			<title>G DATA TOTAL SECURITY 11-50 PC 12 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD12011</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD12051</g:id>
-			<title>G DATA TOTAL SECURITY 51-100 PC 12 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD12051</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD12101</g:id>
-			<title>G DATA TOTAL SECURITY 100+ PC 12 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD12101</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD24001</g:id>
-			<title>G DATA TOTAL SECURITY 1 PC 24 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD24001</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>354,3999 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD24002</g:id>
-			<title>G DATA TOTAL SECURITY 2 PC 24 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD24002</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>412,0992 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD24003</g:id>
-			<title>G DATA TOTAL SECURITY 3 PC 24 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD24003</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>469,8108 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD24004</g:id>
-			<title>G DATA TOTAL SECURITY 4 PC 24 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD24004</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>527,4732 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD24005</g:id>
-			<title>G DATA TOTAL SECURITY 5 PC 24 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD24005</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>607,6815 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD24006</g:id>
-			<title>G DATA TOTAL SECURITY 6 PC 24 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD24006</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>710,4726 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD24007</g:id>
-			<title>G DATA TOTAL SECURITY 7 PC 24 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD24007</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>790,9146 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD24008</g:id>
-			<title>G DATA TOTAL SECURITY 8 PC 24 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD24008</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>882,648 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD24009</g:id>
-			<title>G DATA TOTAL SECURITY 9 PC 24 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD24009</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>963,2007 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD24010</g:id>
-			<title>G DATA TOTAL SECURITY 10 PC 24 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD24010</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>1021,023 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD24011</g:id>
-			<title>G DATA TOTAL SECURITY 11-50 PC 24 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD24011</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD24051</g:id>
-			<title>G DATA TOTAL SECURITY 51-100 PC 24 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD24051</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD24101</g:id>
-			<title>G DATA TOTAL SECURITY 100+ PC 24 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD24101</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD36001</g:id>
-			<title>G DATA TOTAL SECURITY 1 PC 36 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD36001</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>511,9998 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD36002</g:id>
-			<title>G DATA TOTAL SECURITY 2 PC 36 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD36002</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>600,5844 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD36003</g:id>
-			<title>G DATA TOTAL SECURITY 3 PC 36 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD36003</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>689,1444 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD36004</g:id>
-			<title>G DATA TOTAL SECURITY 4 PC 36 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD36004</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>777,6552 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD36005</g:id>
-			<title>G DATA TOTAL SECURITY 5 PC 36 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD36005</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>899,4375 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD36006</g:id>
-			<title>G DATA TOTAL SECURITY 6 PC 36 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD36006</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>1055,1186 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD36007</g:id>
-			<title>G DATA TOTAL SECURITY 7 PC 36 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD36007</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>1177,6758 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD36008</g:id>
-			<title>G DATA TOTAL SECURITY 8 PC 36 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD36008</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>1317,2808 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD36009</g:id>
-			<title>G DATA TOTAL SECURITY 9 PC 36 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD36009</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>1440,207 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD36010</g:id>
-			<title>G DATA TOTAL SECURITY 10 PC 36 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD36010</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>1529,382 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD36011</g:id>
-			<title>G DATA TOTAL SECURITY 11-50 PC 36 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD36011</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD36051</g:id>
-			<title>G DATA TOTAL SECURITY 51-100 PC 36 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD36051</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1003ESD36101</g:id>
-			<title>G DATA TOTAL SECURITY 100+ PC 36 msc</title>
-			<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>gdata-total-internet-security-for-windows?avid=C1003ESD36101</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item/>
-		<item>
-			<g:id>M1001ESD12001</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  1 PC 12 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD12001</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>48,5973 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD12002</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  2 PC 12 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD12002</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>79,2612 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD12003</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  3 PC 12 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD12003</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>109,7775 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD12004</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  4 PC 12 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD12004</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>146,5176 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD12005</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  5 PC 12 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD12005</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>175,029 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD12006</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  6 PC 12 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD12006</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>204,6474 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD12007</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  7 PC 12 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD12007</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>234,4503 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD12008</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  8 PC 12 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD12008</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>264,4992 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD12009</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  9 PC 12 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD12009</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>294,6834 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD12010</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  10 PC 12 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD12010</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>324,843 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD12011</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  11-50 PC 12 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD12011</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD12051</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  51-100 PC 12 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD12051</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD12101</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  100+ PC 12 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD12101</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD24001</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  1 PC 24 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD24001</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>87,4653 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD24002</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  2 PC 24 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD24002</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>142,6554 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD24003</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  3 PC 24 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD24003</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>197,5995 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD24004</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  4 PC 24 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD24004</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>263,7612 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD24005</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  5 PC 24 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD24005</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>315,0645 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD24006</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  6 PC 24 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD24006</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>368,3358 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD24007</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  7 PC 24 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD24007</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>422,0622 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD24008</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  8 PC 24 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD24008</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>476,1576 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD24009</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  9 PC 24 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD24009</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>530,4744 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD24010</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  10 PC 24 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD24010</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>584,865 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD24011</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  11-50 PC 24 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD24011</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD24051</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  51-100 PC 24 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD24051</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD24101</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  100+ PC 24 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD24101</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD36001</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  1 PC 36 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD36001</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>126,3456 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD36002</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  2 PC 36 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD36002</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>206,0496 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD36003</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  3 PC 36 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD36003</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>285,4215 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD36004</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  4 PC 36 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD36004</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>381,0048 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD36005</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  5 PC 36 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD36005</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>455,1 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD36006</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  6 PC 36 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD36006</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>532,0242 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD36007</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  7 PC 36 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD36007</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>609,6741 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD36008</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  8 PC 36 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD36008</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>687,7176 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD36009</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  9 PC 36 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD36009</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>766,1547 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD36010</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  10 PC 36 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD36010</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>844,764 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD36011</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  11-50 PC 36 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD36011</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD36051</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  51-100 PC 36 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD36051</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>M1001ESD36101</g:id>
-			<title>G DATA MOBILE INTERNET SECURITY  100+ PC 36 msc</title>
-			<description>Zabierz ochronę ze sobą! Antywirus dla urządzeń mobilnych z Androidem - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/mobile-security-android?avid=M1001ESD36101</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmis1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item/>
-		<item>
-			<g:id>C1004ESD12001</g:id>
-			<title>G DATA ANTIVIRUS FOR MAC 1 PC 12 msc</title>
-			<description>Kompleksowa i błyskawiczna ochrona przed wirusami, trojanami i innym złośliwym oprogramowaniem dla komputerów Mac - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antivirus-for-mac?avid=C1004ESD12001</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmac1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>194,34 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1004ESD12002</g:id>
-			<title>G DATA ANTIVIRUS FOR MAC 2 PC 12 msc</title>
-			<description>Kompleksowa i błyskawiczna ochrona przed wirusami, trojanami i innym złośliwym oprogramowaniem dla komputerów Mac - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antivirus-for-mac?avid=C1004ESD12002</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmac1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>218,94 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1004ESD12003</g:id>
-			<title>G DATA ANTIVIRUS FOR MAC 3 PC 12 msc</title>
-			<description>Kompleksowa i błyskawiczna ochrona przed wirusami, trojanami i innym złośliwym oprogramowaniem dla komputerów Mac - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antivirus-for-mac?avid=C1004ESD12003</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmac1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>246,0123 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1004ESD12004</g:id>
-			<title>G DATA ANTIVIRUS FOR MAC 4 PC 12 msc</title>
-			<description>Kompleksowa i błyskawiczna ochrona przed wirusami, trojanami i innym złośliwym oprogramowaniem dla komputerów Mac - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antivirus-for-mac?avid=C1004ESD12004</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmac1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>276,75 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1004ESD12005</g:id>
-			<title>G DATA ANTIVIRUS FOR MAC 5 PC 12 msc</title>
-			<description>Kompleksowa i błyskawiczna ochrona przed wirusami, trojanami i innym złośliwym oprogramowaniem dla komputerów Mac - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antivirus-for-mac?avid=C1004ESD12005</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmac1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>307,5 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1004ESD12006</g:id>
-			<title>G DATA ANTIVIRUS FOR MAC 6 PC 12 msc</title>
-			<description>Kompleksowa i błyskawiczna ochrona przed wirusami, trojanami i innym złośliwym oprogramowaniem dla komputerów Mac - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antivirus-for-mac?avid=C1004ESD12006</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmac1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>388,4094 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1004ESD12007</g:id>
-			<title>G DATA ANTIVIRUS FOR MAC 7 PC 12 msc</title>
-			<description>Kompleksowa i błyskawiczna ochrona przed wirusami, trojanami i innym złośliwym oprogramowaniem dla komputerów Mac - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antivirus-for-mac?avid=C1004ESD12007</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmac1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>427,2282 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1004ESD12008</g:id>
-			<title>G DATA ANTIVIRUS FOR MAC 8 PC 12 msc</title>
-			<description>Kompleksowa i błyskawiczna ochrona przed wirusami, trojanami i innym złośliwym oprogramowaniem dla komputerów Mac - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antivirus-for-mac?avid=C1004ESD12008</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmac1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>466,1208 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1004ESD12009</g:id>
-			<title>G DATA ANTIVIRUS FOR MAC 9 PC 12 msc</title>
-			<description>Kompleksowa i błyskawiczna ochrona przed wirusami, trojanami i innym złośliwym oprogramowaniem dla komputerów Mac - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antivirus-for-mac?avid=C1004ESD12009</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmac1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>505,0134 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1004ESD12010</g:id>
-			<title>G DATA ANTIVIRUS FOR MAC 10 PC 12 msc</title>
-			<description>Kompleksowa i błyskawiczna ochrona przed wirusami, trojanami i innym złośliwym oprogramowaniem dla komputerów Mac - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antivirus-for-mac?avid=C1004ESD12010</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmac1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>543,906 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1004ESDMUL12</g:id>
-			<title>G DATA ANTIVIRUS FOR MAC 11+ PC 12 msc</title>
-			<description>Kompleksowa i błyskawiczna ochrona przed wirusami, trojanami i innym złośliwym oprogramowaniem dla komputerów Mac - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antivirus-for-mac?avid=C1004ESDMUL12</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmac1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1004ESD24001</g:id>
-			<title>G DATA ANTIVIRUS FOR MAC 1 PC 24 msc</title>
-			<description>Kompleksowa i błyskawiczna ochrona przed wirusami, trojanami i innym złośliwym oprogramowaniem dla komputerów Mac - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antivirus-for-mac?avid=C1004ESD24001</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmac1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>349,812 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1004ESD24002</g:id>
-			<title>G DATA ANTIVIRUS FOR MAC 2 PC 24 msc</title>
-			<description>Kompleksowa i błyskawiczna ochrona przed wirusami, trojanami i innym złośliwym oprogramowaniem dla komputerów Mac - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antivirus-for-mac?avid=C1004ESD24002</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmac1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>394,092 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1004ESD24003</g:id>
-			<title>G DATA ANTIVIRUS FOR MAC 3 PC 24 msc</title>
-			<description>Kompleksowa i błyskawiczna ochrona przed wirusami, trojanami i innym złośliwym oprogramowaniem dla komputerów Mac - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antivirus-for-mac?avid=C1004ESD24003</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmac1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>442,8 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1004ESD24004</g:id>
-			<title>G DATA ANTIVIRUS FOR MAC 4 PC 24 msc</title>
-			<description>Kompleksowa i błyskawiczna ochrona przed wirusami, trojanami i innym złośliwym oprogramowaniem dla komputerów Mac - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antivirus-for-mac?avid=C1004ESD24004</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmac1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>498,15 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1004ESD24005</g:id>
-			<title>G DATA ANTIVIRUS FOR MAC 5 PC 24 msc</title>
-			<description>Kompleksowa i błyskawiczna ochrona przed wirusami, trojanami i innym złośliwym oprogramowaniem dla komputerów Mac - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antivirus-for-mac?avid=C1004ESD24005</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmac1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>553,5 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1004ESD24006</g:id>
-			<title>G DATA ANTIVIRUS FOR MAC 6 PC 24 msc</title>
-			<description>Kompleksowa i błyskawiczna ochrona przed wirusami, trojanami i innym złośliwym oprogramowaniem dla komputerów Mac - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antivirus-for-mac?avid=C1004ESD24006</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmac1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>699,1074 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1004ESD24007</g:id>
-			<title>G DATA ANTIVIRUS FOR MAC 7 PC 24 msc</title>
-			<description>Kompleksowa i błyskawiczna ochrona przed wirusami, trojanami i innym złośliwym oprogramowaniem dla komputerów Mac - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antivirus-for-mac?avid=C1004ESD24007</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmac1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>769,0452 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1004ESD24008</g:id>
-			<title>G DATA ANTIVIRUS FOR MAC 8 PC 24 msc</title>
-			<description>Kompleksowa i błyskawiczna ochrona przed wirusami, trojanami i innym złośliwym oprogramowaniem dla komputerów Mac - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antivirus-for-mac?avid=C1004ESD24008</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmac1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>839,0568 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1004ESD24009</g:id>
-			<title>G DATA ANTIVIRUS FOR MAC 9 PC 24 msc</title>
-			<description>Kompleksowa i błyskawiczna ochrona przed wirusami, trojanami i innym złośliwym oprogramowaniem dla komputerów Mac - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antivirus-for-mac?avid=C1004ESD24009</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmac1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>908,9577 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1004ESD24010</g:id>
-			<title>G DATA ANTIVIRUS FOR MAC 10 PC 24 msc</title>
-			<description>Kompleksowa i błyskawiczna ochrona przed wirusami, trojanami i innym złośliwym oprogramowaniem dla komputerów Mac - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antivirus-for-mac?avid=C1004ESD24010</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmac1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>978,957 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1004ESDMUL24</g:id>
-			<title>G DATA ANTIVIRUS FOR MAC 11+ PC 24 msc</title>
-			<description>Kompleksowa i błyskawiczna ochrona przed wirusami, trojanami i innym złośliwym oprogramowaniem dla komputerów Mac - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antivirus-for-mac?avid=C1004ESDMUL24</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmac1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1004ESD36001</g:id>
-			<title>G DATA ANTIVIRUS FOR MAC 1 PC 36 msc</title>
-			<description>Kompleksowa i błyskawiczna ochrona przed wirusami, trojanami i innym złośliwym oprogramowaniem dla komputerów Mac - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antivirus-for-mac?avid=C1004ESD36001</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmac1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>505,284 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1004ESD36002</g:id>
-			<title>G DATA ANTIVIRUS FOR MAC 2 PC 36 msc</title>
-			<description>Kompleksowa i błyskawiczna ochrona przed wirusami, trojanami i innym złośliwym oprogramowaniem dla komputerów Mac - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antivirus-for-mac?avid=C1004ESD36002</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmac1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>569,244 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1004ESD36003</g:id>
-			<title>G DATA ANTIVIRUS FOR MAC 3 PC 36 msc</title>
-			<description>Kompleksowa i błyskawiczna ochrona przed wirusami, trojanami i innym złośliwym oprogramowaniem dla komputerów Mac - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antivirus-for-mac?avid=C1004ESD36003</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmac1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>639,5877 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1004ESD36004</g:id>
-			<title>G DATA ANTIVIRUS FOR MAC 4 PC 36 msc</title>
-			<description>Kompleksowa i błyskawiczna ochrona przed wirusami, trojanami i innym złośliwym oprogramowaniem dla komputerów Mac - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antivirus-for-mac?avid=C1004ESD36004</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmac1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>719,55 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1004ESD36005</g:id>
-			<title>G DATA ANTIVIRUS FOR MAC 5 PC 36 msc</title>
-			<description>Kompleksowa i błyskawiczna ochrona przed wirusami, trojanami i innym złośliwym oprogramowaniem dla komputerów Mac - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antivirus-for-mac?avid=C1004ESD36005</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmac1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>799,5 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1004ESD36006</g:id>
-			<title>G DATA ANTIVIRUS FOR MAC 6 PC 36 msc</title>
-			<description>Kompleksowa i błyskawiczna ochrona przed wirusami, trojanami i innym złośliwym oprogramowaniem dla komputerów Mac - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antivirus-for-mac?avid=C1004ESD36006</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmac1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>1009,8054 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1004ESD36007</g:id>
-			<title>G DATA ANTIVIRUS FOR MAC 7 PC 36 msc</title>
-			<description>Kompleksowa i błyskawiczna ochrona przed wirusami, trojanami i innym złośliwym oprogramowaniem dla komputerów Mac - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antivirus-for-mac?avid=C1004ESD36007</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmac1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>1110,8622 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1004ESD36008</g:id>
-			<title>G DATA ANTIVIRUS FOR MAC 8 PC 36 msc</title>
-			<description>Kompleksowa i błyskawiczna ochrona przed wirusami, trojanami i innym złośliwym oprogramowaniem dla komputerów Mac - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antivirus-for-mac?avid=C1004ESD36008</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmac1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>1211,8944 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1004ESD36009</g:id>
-			<title>G DATA ANTIVIRUS FOR MAC 9 PC 36 msc</title>
-			<description>Kompleksowa i błyskawiczna ochrona przed wirusami, trojanami i innym złośliwym oprogramowaniem dla komputerów Mac - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antivirus-for-mac?avid=C1004ESD36009</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmac1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>1313,0127 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1004ESD36010</g:id>
-			<title>G DATA ANTIVIRUS FOR MAC 10 PC 36 msc</title>
-			<description>Kompleksowa i błyskawiczna ochrona przed wirusami, trojanami i innym złośliwym oprogramowaniem dla komputerów Mac - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antivirus-for-mac?avid=C1004ESD36010</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmac1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>1414,008 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1004ESDMUL36</g:id>
-			<title>G DATA ANTIVIRUS FOR MAC 11+ PC 36 msc</title>
-			<description>Kompleksowa i błyskawiczna ochrona przed wirusami, trojanami i innym złośliwym oprogramowaniem dla komputerów Mac - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/antivirus-for-mac?avid=C1004ESDMUL36</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczmac1.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price/>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item/>
-		<item>
-			<g:id>82259</g:id>
-			<title>G DATA INTERNET SECURITY 2+2 PC 12 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>179,0019 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>C1802ESD122U2GE</g:id>
-			<title>G DATA INTERNET SECURITY 2+2 PC 20 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>198,9894 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>84221</g:id>
-			<title>G DATA INTERNET SECURITY 2+2 PC 24 msc</title>
-			<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>286,4055 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item/>
-		<item>
-			<g:id>V2001ESD12001</g:id>
-			<title>G DATA VPN 10 PC 12 msc</title>
-			<description>Bezpieczne oprogramowanie VPN do anonimowego surfowania.</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/vpn?avid=V2001ESD12001</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczvpn.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>199,998 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
-		<item>
-			<g:id>V2001ESD24001</g:id>
-			<title>G DATA VPN 10 PC 24 msc</title>
-			<description>Bezpieczne oprogramowanie VPN do anonimowego surfowania.</description>
-			<g:google_product_category>5299</g:google_product_category>
-			<link>https://gdata.pl/vpn?avid=V2001ESD24001</link>
-			<g:image_link>https://gdata.pl/cmsSources/images/kluczvpn.png</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:price>399,996 PLN</g:price>
-			<g:brand>G DATA</g:brand>
-		</item>
+	<item>
+	<g:id>C1001ESD12001</g:id>
+	<title>G DATA ANTIVIRUS 1 PC 12 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD12001</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>135,3</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD12002</g:id>
+	<title>G DATA ANTIVIRUS 2 PC 12 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD12002</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>159,9</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD12003</g:id>
+	<title>G DATA ANTIVIRUS 3 PC 12 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD12003</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>184,5</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD12004</g:id>
+	<title>G DATA ANTIVIRUS 4 PC 12 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD12004</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>215,25</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD12005</g:id>
+	<title>G DATA ANTIVIRUS 5 PC 12 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD12005</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>258,3</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD12006</g:id>
+	<title>G DATA ANTIVIRUS 6 PC 12 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD12006</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>338,2254</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD12007</g:id>
+	<title>G DATA ANTIVIRUS 7 PC 12 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD12007</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>387,45</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD12008</g:id>
+	<title>G DATA ANTIVIRUS 8 PC 12 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD12008</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>418,2</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD12009</g:id>
+	<title>G DATA ANTIVIRUS 9 PC 12 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD12009</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>455,0877</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD12010</g:id>
+	<title>G DATA ANTIVIRUS 10 PC 12 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD12010</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>485,85</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD12011</g:id>
+	<title>G DATA ANTIVIRUS 11-50 PC 12 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD12011</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD12051</g:id>
+	<title>G DATA ANTIVIRUS 51-100 PC 12 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD12051</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD12101</g:id>
+	<title>G DATA ANTIVIRUS 100+ PC 12 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD12101</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD24001</g:id>
+	<title>G DATA ANTIVIRUS 1 PC 24 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD24001</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>248,2386</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD24002</g:id>
+	<title>G DATA ANTIVIRUS 2 PC 24 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD24002</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>297,1434</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD24003</g:id>
+	<title>G DATA ANTIVIRUS 3 PC 24 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD24003</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>346,122</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD24004</g:id>
+	<title>G DATA ANTIVIRUS 4 PC 24 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD24004</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>406,7856</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD24005</g:id>
+	<title>G DATA ANTIVIRUS 5 PC 24 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD24005</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>491,016</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD24006</g:id>
+	<title>G DATA ANTIVIRUS 6 PC 24 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD24006</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>634,4586</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD24007</g:id>
+	<title>G DATA ANTIVIRUS 7 PC 24 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD24007</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>729,5253</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD24008</g:id>
+	<title>G DATA ANTIVIRUS 8 PC 24 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD24008</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>790,152</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD24009</g:id>
+	<title>G DATA ANTIVIRUS 9 PC 24 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD24009</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>862,4637</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD24010</g:id>
+	<title>G DATA ANTIVIRUS 10 PC 24 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD24010</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>923,361</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD24011</g:id>
+	<title>G DATA ANTIVIRUS 11-50 PC 24 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD24011</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD24051</g:id>
+	<title>G DATA ANTIVIRUS 51-100 PC 24 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD24051</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD24101</g:id>
+	<title>G DATA ANTIVIRUS 100+ PC 24 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD24101</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD36001</g:id>
+	<title>G DATA ANTIVIRUS 1 PC 36 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD36001</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>361,1772</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD36002</g:id>
+	<title>G DATA ANTIVIRUS 2 PC 36 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD36002</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>434,4114</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD36003</g:id>
+	<title>G DATA ANTIVIRUS 3 PC 36 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD36003</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>507,7809</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD36004</g:id>
+	<title>G DATA ANTIVIRUS 4 PC 36 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD36004</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>598,3212</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD36005</g:id>
+	<title>G DATA ANTIVIRUS 5 PC 36 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD36005</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>723,732</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD36006</g:id>
+	<title>G DATA ANTIVIRUS 6 PC 36 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD36006</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>930,618</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD36007</g:id>
+	<title>G DATA ANTIVIRUS 7 PC 36 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD36007</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>1071,5145</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD36008</g:id>
+	<title>G DATA ANTIVIRUS 8 PC 36 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD36008</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>1162,0056</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD36009</g:id>
+	<title>G DATA ANTIVIRUS 9 PC 36 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD36009</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>1269,9504</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD36010</g:id>
+	<title>G DATA ANTIVIRUS 10 PC 36 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD36010</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>1360,872</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD36011</g:id>
+	<title>G DATA ANTIVIRUS 11-50 PC 36 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD36011</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD36051</g:id>
+	<title>G DATA ANTIVIRUS 51-100 PC 36 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD36051</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1001ESD36101</g:id>
+	<title>G DATA ANTIVIRUS 100+ PC 36 msc</title>
+	<description>Podstawowe zabezpieczenie komputera przed wirusami, ransomware i innymi zagrożeniami z sieci - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/antywirus-windows?avid=C1001ESD36101</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczav1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD12001</g:id>
+	<title>G DATA INTERNET SECURITY 1 PC 12 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD12001</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>172,2</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD12002</g:id>
+	<title>G DATA INTERNET SECURITY 2 PC 12 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD12002</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>202,95</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD12003</g:id>
+	<title>G DATA INTERNET SECURITY 3 PC 12 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD12003</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>233,6877</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD12004</g:id>
+	<title>G DATA INTERNET SECURITY 4 PC 12 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD12004</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>264,45</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD12005</g:id>
+	<title>G DATA INTERNET SECURITY 5 PC 12 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD12005</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>301,35</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD12006</g:id>
+	<title>G DATA INTERNET SECURITY 6 PC 12 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD12006</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>362,8746</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD12007</g:id>
+	<title>G DATA INTERNET SECURITY 7 PC 12 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD12007</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>405,8754</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD12008</g:id>
+	<title>G DATA INTERNET SECURITY 8 PC 12 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD12008</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>455,1</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD12009</g:id>
+	<title>G DATA INTERNET SECURITY 9 PC 12 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD12009</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>498,15</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD12010</g:id>
+	<title>G DATA INTERNET SECURITY 10 PC 12 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD12010</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>528,9</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD12011</g:id>
+	<title>G DATA INTERNET SECURITY 11-50 PC 12 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD12011</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD12051</g:id>
+	<title>G DATA INTERNET SECURITY 51-100 PC 12 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD12051</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD12101</g:id>
+	<title>G DATA INTERNET SECURITY 100+ PC 12 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD12101</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD24001</g:id>
+	<title>G DATA INTERNET SECURITY 1 PC 24 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD24001</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>309,2835</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD24002</g:id>
+	<title>G DATA INTERNET SECURITY 2 PC 24 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD24002</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>364,7442</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD24003</g:id>
+	<title>G DATA INTERNET SECURITY 3 PC 24 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD24003</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>419,8113</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD24004</g:id>
+	<title>G DATA INTERNET SECURITY 4 PC 24 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD24004</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>475,3704</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD24005</g:id>
+	<title>G DATA INTERNET SECURITY 5 PC 24 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD24005</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>544,275</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD24006</g:id>
+	<title>G DATA INTERNET SECURITY 6 PC 24 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD24006</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>657,8532</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD24007</g:id>
+	<title>G DATA INTERNET SECURITY 7 PC 24 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD24007</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>738,2214</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD24008</g:id>
+	<title>G DATA INTERNET SECURITY 8 PC 24 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD24008</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>829,8072</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD24009</g:id>
+	<title>G DATA INTERNET SECURITY 9 PC 24 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD24009</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>910,2861</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD24010</g:id>
+	<title>G DATA INTERNET SECURITY 10 PC 24 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD24010</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>968,256</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD24011</g:id>
+	<title>G DATA INTERNET SECURITY 11-50 PC 24 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD24011</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD24051</g:id>
+	<title>G DATA INTERNET SECURITY 51-100 PC 24 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD24051</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD24101</g:id>
+	<title>G DATA INTERNET SECURITY 100+ PC 24 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD24101</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD36001</g:id>
+	<title>G DATA INTERNET SECURITY 1 PC 36 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD36001</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>450,9549</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD36002</g:id>
+	<title>G DATA INTERNET SECURITY 2 PC 36 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD36002</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>532,5654</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD36003</g:id>
+	<title>G DATA INTERNET SECURITY 3 PC 36 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD36003</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>613,647</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD36004</g:id>
+	<title>G DATA INTERNET SECURITY 4 PC 36 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD36004</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>698,64</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD36005</g:id>
+	<title>G DATA INTERNET SECURITY 5 PC 36 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD36005</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>803,928</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD36006</g:id>
+	<title>G DATA INTERNET SECURITY 6 PC 36 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD36006</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>979,695</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD36007</g:id>
+	<title>G DATA INTERNET SECURITY 7 PC 36 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD36007</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>1098,2055</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD36008</g:id>
+	<title>G DATA INTERNET SECURITY 8 PC 36 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD36008</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>1237,6752</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD36009</g:id>
+	<title>G DATA INTERNET SECURITY 9 PC 36 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD36009</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>1360,7244</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD36010</g:id>
+	<title>G DATA INTERNET SECURITY 10 PC 36 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD36010</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>1450,17</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD36011</g:id>
+	<title>G DATA INTERNET SECURITY 11-50 PC 36 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD36011</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD36051</g:id>
+	<title>G DATA INTERNET SECURITY 51-100 PC 36 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD36051</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1002ESD36101</g:id>
+	<title>G DATA INTERNET SECURITY 100+ PC 36 msc</title>
+	<description>Solidna ochrona przed wirusami i ransomware z niezawodnym firewallem chroniącym przed hakerami - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>https://gdata.pl/internet-security-for-windows?avid=C1002ESD36101</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczis1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1003ESD12001</g:id>
+	<title>G DATA TOTAL SECURITY 1 PC 12 msc</title>
+	<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>gdata-total-internet-security-for-windows?avid=C1003ESD12001</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>196,8</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1003ESD12002</g:id>
+	<title>G DATA TOTAL SECURITY 2 PC 12 msc</title>
+	<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>gdata-total-internet-security-for-windows?avid=C1003ESD12002</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>227,55</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1003ESD12003</g:id>
+	<title>G DATA TOTAL SECURITY 3 PC 12 msc</title>
+	<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>gdata-total-internet-security-for-windows?avid=C1003ESD12003</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>258,3</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1003ESD12004</g:id>
+	<title>G DATA TOTAL SECURITY 4 PC 12 msc</title>
+	<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>gdata-total-internet-security-for-windows?avid=C1003ESD12004</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>289,05</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1003ESD12005</g:id>
+	<title>G DATA TOTAL SECURITY 5 PC 12 msc</title>
+	<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>gdata-total-internet-security-for-windows?avid=C1003ESD12005</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>332,1</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1003ESD12006</g:id>
+	<title>G DATA TOTAL SECURITY 6 PC 12 msc</title>
+	<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>gdata-total-internet-security-for-windows?avid=C1003ESD12006</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>387,45</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1003ESD12007</g:id>
+	<title>G DATA TOTAL SECURITY 7 PC 12 msc</title>
+	<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>gdata-total-internet-security-for-windows?avid=C1003ESD12007</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>430,5</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1003ESD12008</g:id>
+	<title>G DATA TOTAL SECURITY 8 PC 12 msc</title>
+	<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>gdata-total-internet-security-for-windows?avid=C1003ESD12008</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>479,7</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1003ESD12009</g:id>
+	<title>G DATA TOTAL SECURITY 9 PC 12 msc</title>
+	<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>gdata-total-internet-security-for-windows?avid=C1003ESD12009</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>522,7254</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1003ESD12010</g:id>
+	<title>G DATA TOTAL SECURITY 10 PC 12 msc</title>
+	<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>gdata-total-internet-security-for-windows?avid=C1003ESD12010</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>553,5</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1003ESD12011</g:id>
+	<title>G DATA TOTAL SECURITY 11-50 PC 12 msc</title>
+	<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>gdata-total-internet-security-for-windows?avid=C1003ESD12011</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1003ESD12051</g:id>
+	<title>G DATA TOTAL SECURITY 51-100 PC 12 msc</title>
+	<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>gdata-total-internet-security-for-windows?avid=C1003ESD12051</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1003ESD12101</g:id>
+	<title>G DATA TOTAL SECURITY 100+ PC 12 msc</title>
+	<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>gdata-total-internet-security-for-windows?avid=C1003ESD12101</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1003ESD24001</g:id>
+	<title>G DATA TOTAL SECURITY 1 PC 24 msc</title>
+	<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>gdata-total-internet-security-for-windows?avid=C1003ESD24001</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>354,3999</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1003ESD24002</g:id>
+	<title>G DATA TOTAL SECURITY 2 PC 24 msc</title>
+	<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>gdata-total-internet-security-for-windows?avid=C1003ESD24002</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>412,0992</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1003ESD24003</g:id>
+	<title>G DATA TOTAL SECURITY 3 PC 24 msc</title>
+	<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>gdata-total-internet-security-for-windows?avid=C1003ESD24003</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>469,8108</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1003ESD24004</g:id>
+	<title>G DATA TOTAL SECURITY 4 PC 24 msc</title>
+	<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>gdata-total-internet-security-for-windows?avid=C1003ESD24004</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>527,4732</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1003ESD24005</g:id>
+	<title>G DATA TOTAL SECURITY 5 PC 24 msc</title>
+	<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>gdata-total-internet-security-for-windows?avid=C1003ESD24005</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>607,6815</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1003ESD24006</g:id>
+	<title>G DATA TOTAL SECURITY 6 PC 24 msc</title>
+	<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>gdata-total-internet-security-for-windows?avid=C1003ESD24006</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>710,4726</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1003ESD24007</g:id>
+	<title>G DATA TOTAL SECURITY 7 PC 24 msc</title>
+	<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>gdata-total-internet-security-for-windows?avid=C1003ESD24007</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>790,9146</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1003ESD24008</g:id>
+	<title>G DATA TOTAL SECURITY 8 PC 24 msc</title>
+	<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>gdata-total-internet-security-for-windows?avid=C1003ESD24008</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>882,648</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
+	<item>
+	<g:id>C1003ESD24009</g:id>
+	<title>G DATA TOTAL SECURITY 9 PC 24 msc</title>
+	<description>Kompletny pakiet bezpieczeństwa dla maksymalnej ochrony przed wirusami, ransomware i utratą danych - gdata.pl</description>
+	<g:google_product_category>5299</g:google_product_category>
+	<link>gdata-total-internet-security-for-windows?avid=C1003ESD24009</link>
+	<g:image_link>https://gdata.pl/cmsSources/images/kluczts1.png</g:image_link>
+	<g:condition>new</g:condition>
+	<g:availability>in stock</g:availability>
+	<g:price>963,2007</g:price>
+	<g:brand>G DATA</g:brand>
+	</item>
 	</channel>
-</rss>
+	</rss>
