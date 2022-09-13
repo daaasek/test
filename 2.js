@@ -2936,55 +2936,7 @@ GdWebsite.BusinessLightboxItem = new GDataBusinessLightboxItem, GdWebsite.Busine
             }
 });
 
-function GDataBusinessStickyNav() {
-    var l = this,
-        n = this,
-        o = [];
-    this.DOMElements = { siteHeader: document.getElementById("site-header"), stickyNavWrapper: document.querySelector(".stickynav-outer"), stickyNavToggle: document.querySelector(".stickynav__toggle"), stickyNavItemLinks: document.querySelectorAll(".stickynav__nav__list__item__link") }, this.init = function() { l._fixTop(), l._toggleStickyNav(), l._setActiveClassToNativeLinks(), l._scrollToAnchorLinkOnClick(), l._toggleActiveClassOnScroll(), l._setActiveItemNameAsToggleTitle() }, this._fixTop = function() {
-        var c = 0;
-        window.addEventListener("scroll", function() {
-            var t, e, s = l.DOMElements.stickyNavWrapper,
-                i = s.classList.contains("scroll-up-fixed"),
-                n = s.getBoundingClientRect().top <= 0,
-                o = window.scrollY <= l.DOMElements.siteHeader.offsetHeight;
-            i ? (t = window.pageYOffset, e = "down", i = "up", n && (c < t && !s.classList.contains(e) ? (s.classList.remove(i), s.classList.add(e)) : t < c && s.classList.contains(e) && (s.classList.remove(e), s.classList.add(i))), o && (s.classList.remove(e), s.classList.remove(i)), c = t) : (n && s.classList.add("stick"), o && s.classList.remove("stick"))
-        })
-    }, this._toggleStickyNav = function() { l.DOMElements.stickyNavToggle.addEventListener("click", n._toggleStickyNavBodyClass) }, this._setActiveClassToNativeLinks = function() { n.DOMElements.stickyNavItemLinks.forEach(function(t) { window.location.href === t.href && t.classList.add("active") }) }, this._scrollToAnchorLinkOnClick = function() {
-        n.DOMElements.stickyNavItemLinks.forEach(function(e) {
-            var t = window.location.protocol + "//" + window.location.hostname + window.location.pathname,
-                s = e.protocol + "//" + e.hostname + e.pathname;
-            e.hash && t === s && (o.push(e), e.addEventListener("click", function(t) { t.preventDefault(), n._toggleStickyNavBodyClass(), !1 === e.classList.contains("b2b-lightbox") && n._scrollTo("#" + n._getHashFromUrl(e.href)) }))
-        })
-    }, this._toggleActiveClassOnScroll = function() {
-        for (var t, e = 0, s = [], i = 0; i < o.length; i++) s.push(n._getHashFromUrl(o[i].href));
-        window.addEventListener("scroll", function() {
-            t && window.cancelAnimationFrame(t), t = window.requestAnimationFrame(function() {
-                var t = s.length - [].concat(s).reverse().findIndex(function(t) { t = document.getElementById(t); if (t) return window.scrollY >= t.offsetTop - 200 && window.scrollY <= t.offsetTop + t.offsetHeight }) - 1;
-                t !== e && (n._removeAllActiveClasses(), e = t, o[t] ? o[t].classList.add("active") : o[t] || n._setActiveClassToNativeLinks())
-            })
-        })
-    }, this._setActiveItemNameAsToggleTitle = function() {
-        var t, e = "";
-        n.DOMElements.stickyNavItemLinks.forEach(function(t) { t.classList.contains("active") && (e = t.innerText) }), e || (t = document.querySelector(".stickynav__title").innerText, t && (e = t)), l.DOMElements.stickyNavToggle.innerHTML = e + '<i class="icon-circle-arrow-down"></i>'
-    }, this._removeAllActiveClasses = function() { return n.DOMElements.stickyNavItemLinks.forEach(function(t) { return t.classList.remove("active") }) }, this._getHashFromUrl = function(t) { return t.substring(t.indexOf("#") + 1) }, this._toggleStickyNavBodyClass = function() { return document.querySelector("body").classList.toggle("stickynav-active") }, this._scrollTo = function(t) {
-        var e;
-        t && (e = "scrollBehavior" in document.documentElement.style, t = document.querySelector(t), t && (e ? n._nativeScrollTo(t) : n._fallbackScrollTo(t.offsetTop, 600)))
-    }, this._nativeScrollTo = function(t) { window.scroll({ top: t.offsetTop, left: 0, behavior: "smooth" }) }, this._fallbackScrollTo = function(s, i) {
-        var n = document.scrollingElement || document.documentElement,
-            o = n.scrollTop,
-            c = s - o,
-            l = +new Date,
-            a = function easeInOutQuad(t, e, s, i) { return t /= i / 2, t < 1 ? s / 2 * t * t + e : (t--, -s / 2 * (t * (t - 2) - 1) + e) },
-            t = function animateScroll(t) {
-                var e = +new Date,
-                    e = e - l;
-                n.scrollTop = parseInt(a(e, o, c, i)), e < i ? requestAnimationFrame(animateScroll) : n.scrollTop = s
-            };
-        t()
-    }
-}
-var GdWebsite = GdWebsite || {};
-GdWebsite.BusinessStickyNav = new GDataBusinessStickyNav, GdWebsite.BusinessStickyNav.init();
+
 
 var GdB2cHead = {
     initDevicesStuff: function initDevicesStuff() {
